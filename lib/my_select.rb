@@ -15,3 +15,5 @@ def my_select(collection)
     return collection
   end
 end
+
+my_select([1,2,3,4,5])
